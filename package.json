@@ -1,0 +1,1 @@
+{"name":"heights-of-japan","version":"1.0.0","private":true,"type":"module","scripts":{"check":"node --check app.js && node --check models.js && python3 scripts/validate.py && node scripts/validate-models.mjs"}}

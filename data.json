@@ -1,0 +1,2358 @@
+{
+  "asOf": "2026-11-01",
+  "methodology": "公開資料をもとに選定した主要100施設の高さ順。全国の全工作物を網羅した確定順位ではない。建設中・計画中・解体済みは対象外。風車・ダムは対象外。同一施設の複数鉄塔・煙突・橋主塔は原則まとめ、独立したビルは別棟で数える。橋の主塔高は海面基準のため、他施設の地上高と測定基準が異なる。",
+  "items": [
+    {
+      "id": "jp-001",
+      "name": "東京スカイツリー",
+      "height": 634.0,
+      "floors": null,
+      "year": 2012,
+      "location": "東京都墨田区",
+      "prefecture": "東京都",
+      "kind": "塔・鉄塔",
+      "model": "skytree",
+      "description": "「634＝むさし」の高さを持つ電波塔。反りのある骨組みと二つの展望台が特徴。",
+      "sources": [
+        {
+          "label": "東京スカイツリー公式｜スペック",
+          "url": "https://www.tokyo-skytree.jp/about/spec/"
+        },
+        {
+          "label": "高さ・階数の一覧資料（二次資料）",
+          "url": "https://ja.wikipedia.org/wiki/日本の超高層建築物・構築物の一覧"
+        }
+      ],
+      "note": "",
+      "order": 1,
+      "rank": 1,
+      "heightBasis": "地上からの構造物高",
+      "modelNote": "外形を簡略化した説明用3D。高さ以外の幅・奥行・窓・色は模式表現。"
+    },
+    {
+      "id": "jp-002",
+      "name": "東京タワー",
+      "height": 333.0,
+      "floors": null,
+      "year": 1958,
+      "location": "東京都港区",
+      "prefecture": "東京都",
+      "kind": "塔・鉄塔",
+      "model": "tokyo",
+      "description": "赤と白の鉄骨がつくる東京のシンボル。テレビ放送の時代を支えてきた電波塔。",
+      "sources": [
+        {
+          "label": "高さ・階数の一覧資料（二次資料）",
+          "url": "https://ja.wikipedia.org/wiki/日本の超高層建築物・構築物の一覧"
+        }
+      ],
+      "note": "",
+      "order": 2,
+      "rank": 2,
+      "heightBasis": "地上からの構造物高",
+      "modelNote": "外形を簡略化した説明用3D。高さ以外の幅・奥行・窓・色は模式表現。"
+    },
+    {
+      "id": "jp-003",
+      "name": "麻布台ヒルズ 森JPタワー",
+      "height": 325.49,
+      "floors": 64,
+      "year": 2023,
+      "location": "東京都港区",
+      "prefecture": "東京都",
+      "kind": "ビル",
+      "model": "azabudai",
+      "description": "麻布台ヒルズの中心となる超高層ビル。丸みのある頂部と緑のテラスが特徴。",
+      "sources": [
+        {
+          "label": "施工会社｜最高部325.49m",
+          "url": "https://www.ohkakgy.co.jp/construction/381/"
+        },
+        {
+          "label": "高さ・階数の一覧資料（二次資料）",
+          "url": "https://ja.wikipedia.org/wiki/日本の超高層建築物・構築物の一覧"
+        }
+      ],
+      "note": "325.49mを採用。森ビル公式の概数表記は「約330m」。",
+      "order": 3,
+      "rank": 3,
+      "heightBasis": "建築物の高さ（一覧資料基準）",
+      "modelNote": "外形を簡略化した説明用3D。高さ以外の幅・奥行・窓・色は模式表現。"
+    },
+    {
+      "id": "jp-004",
+      "name": "あべのハルカス",
+      "height": 300.0,
+      "floors": 60,
+      "year": 2014,
+      "location": "大阪府大阪市阿倍野区",
+      "prefecture": "大阪府",
+      "kind": "ビル",
+      "model": "harukas",
+      "description": "大阪・天王寺のランドマーク。段状のガラスの外観に百貨店やホテルなどを重ねる。",
+      "sources": [
+        {
+          "label": "高さ・階数の一覧資料（二次資料）",
+          "url": "https://ja.wikipedia.org/wiki/日本の超高層建築物・構築物の一覧"
+        }
+      ],
+      "note": "",
+      "order": 4,
+      "rank": 4,
+      "heightBasis": "建築物の高さ（一覧資料基準）",
+      "modelNote": "外形を簡略化した説明用3D。高さ以外の幅・奥行・窓・色は模式表現。"
+    },
+    {
+      "id": "jp-005",
+      "name": "明石海峡大橋 主塔",
+      "height": 298.3,
+      "floors": null,
+      "year": 1998,
+      "location": "兵庫県神戸市・淡路市",
+      "prefecture": "兵庫県",
+      "kind": "橋・主塔",
+      "model": "bridge",
+      "description": "本州と淡路島を結ぶ吊橋の主塔。橋の長さではなく、海面を基準とした主塔高を表示。",
+      "sources": [
+        {
+          "label": "高さ・階数の一覧資料（二次資料）",
+          "url": "https://ja.wikipedia.org/wiki/日本の超高層建築物・構築物の一覧"
+        }
+      ],
+      "note": "",
+      "order": 5,
+      "rank": 5,
+      "heightBasis": "海面からの主塔高",
+      "modelNote": "外形を簡略化した説明用3D。高さ以外の幅・奥行・窓・色は模式表現。"
+    },
+    {
+      "id": "jp-006",
+      "name": "横浜ランドマークタワー",
+      "height": 296.33,
+      "floors": 70,
+      "year": 1993,
+      "location": "神奈川県横浜市西区",
+      "prefecture": "神奈川県",
+      "kind": "ビル",
+      "model": "landmark",
+      "description": "みなとみらいの空を象徴する超高層ビル。四隅が張り出した輪郭が印象的。",
+      "sources": [
+        {
+          "label": "高さ・階数の一覧資料（二次資料）",
+          "url": "https://ja.wikipedia.org/wiki/日本の超高層建築物・構築物の一覧"
+        }
+      ],
+      "note": "",
+      "order": 6,
+      "rank": 6,
+      "heightBasis": "建築物の高さ（一覧資料基準）",
+      "modelNote": "外形を簡略化した説明用3D。高さ以外の幅・奥行・窓・色は模式表現。"
+    },
+    {
+      "id": "jp-007",
+      "name": "日本橋野村三井タワー",
+      "height": 283.96,
+      "floors": 52,
+      "year": 2026,
+      "location": "東京都中央区",
+      "prefecture": "東京都",
+      "kind": "ビル",
+      "model": "nihonbashi",
+      "description": "東京ミッドタウン日本橋のメインタワー。2026年9月竣工、街区の本格開業は2027年予定。",
+      "sources": [
+        {
+          "label": "三井不動産｜2026年9月30日竣工",
+          "url": "https://www.mitsuifudosan.co.jp/corporate/news/2026/1008_01/"
+        },
+        {
+          "label": "高さ・階数の一覧資料（二次資料）",
+          "url": "https://ja.wikipedia.org/wiki/日本の超高層建築物・構築物の一覧"
+        }
+      ],
+      "note": "",
+      "order": 7,
+      "rank": 7,
+      "heightBasis": "建築物の高さ（一覧資料基準）",
+      "modelNote": "外形を簡略化した説明用3D。高さ以外の幅・奥行・窓・色は模式表現。"
+    },
+    {
+      "id": "jp-008",
+      "name": "えびの送信所 鉄塔群",
+      "height": 272.0,
+      "floors": null,
+      "year": 1991,
+      "location": "宮崎県えびの市",
+      "prefecture": "宮崎県",
+      "kind": "塔・鉄塔",
+      "model": "mast",
+      "description": "海上自衛隊の通信を支える支線式鉄塔群。施工会社資料の最高高さ272mを採用し、施設で1件と数える。",
+      "sources": [
+        {
+          "label": "電気興業｜施工記録・最高高さ272m",
+          "url": "https://denkikogyo.co.jp/wp-content/uploads/2022/09/52-%EF%BC%91%EF%BC%99%E3%80%80%E5%89%B5%E7%AB%8B%EF%BC%97%EF%BC%90%E5%91%A8%E5%B9%B4%E8%A8%98%E5%BF%B5%E7%89%B9%E9%9B%86%E3%80%80%E9%89%84%E5%A1%94%E4%BA%8B%E6%A5%AD%E3%81%B8%E3%81%AE%E5%8F%96%E3%82%8A%E7%B5%84%E3%81%BF.pdf"
+        },
+        {
+          "label": "高さ・階数の一覧資料（二次資料）",
+          "url": "https://ja.wikipedia.org/wiki/日本の超高層建築物・構築物の一覧"
+        }
+      ],
+      "note": "一般の一覧には270m表記もある。施工会社の最高高さ272mを採用。8本を施設で1件とする。",
+      "order": 8,
+      "rank": 8,
+      "heightBasis": "地上からの構造物高",
+      "modelNote": "外形を簡略化した説明用3D。高さ以外の幅・奥行・窓・色は模式表現。"
+    },
+    {
+      "id": "jp-009",
+      "name": "虎ノ門ヒルズ ステーションタワー",
+      "height": 265.75,
+      "floors": 49,
+      "year": 2023,
+      "location": "東京都港区",
+      "prefecture": "東京都",
+      "kind": "ビル",
+      "model": "station",
+      "description": "虎ノ門ヒルズ駅に直結する複合タワー。中央が絞られ、上部が張り出す外観を持つ。",
+      "sources": [
+        {
+          "label": "高さ・階数の一覧資料（二次資料）",
+          "url": "https://ja.wikipedia.org/wiki/日本の超高層建築物・構築物の一覧"
+        }
+      ],
+      "note": "",
+      "order": 9,
+      "rank": 9,
+      "heightBasis": "建築物の高さ（一覧資料基準）",
+      "modelNote": "外形を簡略化した説明用3D。高さ以外の幅・奥行・窓・色は模式表現。"
+    },
+    {
+      "id": "jp-010",
+      "name": "麻布台ヒルズ レジデンスB",
+      "height": 262.82,
+      "floors": 64,
+      "year": 2025,
+      "location": "東京都港区",
+      "prefecture": "東京都",
+      "kind": "ビル",
+      "model": "residence",
+      "description": "麻布台ヒルズの西側に立つ住宅タワー。細長い高層部と積層するバルコニーが特徴。",
+      "sources": [
+        {
+          "label": "高さ・階数の一覧資料（二次資料）",
+          "url": "https://ja.wikipedia.org/wiki/日本の超高層建築物・構築物の一覧"
+        }
+      ],
+      "note": "",
+      "order": 10,
+      "rank": 10,
+      "heightBasis": "建築物の高さ（一覧資料基準）",
+      "modelNote": "外形を簡略化した説明用3D。高さ以外の幅・奥行・窓・色は模式表現。"
+    },
+    {
+      "id": "jp-011",
+      "name": "SiSりんくうタワー",
+      "height": 256.1,
+      "floors": 56,
+      "year": 1996,
+      "location": "大阪府泉佐野市",
+      "prefecture": "大阪府",
+      "kind": "ビル",
+      "model": "rinku",
+      "description": "関西空港の対岸、りんくうタウンのランドマーク。旧称はりんくうゲートタワービル。",
+      "sources": [
+        {
+          "label": "高さ・階数の一覧資料（二次資料）",
+          "url": "https://ja.wikipedia.org/wiki/日本の超高層建築物・構築物の一覧"
+        }
+      ],
+      "note": "",
+      "order": 11,
+      "rank": 11,
+      "heightBasis": "建築物の高さ（一覧資料基準）",
+      "modelNote": "外形を簡略化した説明用3D。高さ以外の幅・奥行・窓・色は模式表現。"
+    },
+    {
+      "id": "jp-012",
+      "name": "大阪府咲洲庁舎",
+      "height": 256.0,
+      "floors": 55,
+      "year": 1995,
+      "location": "大阪府大阪市住之江区",
+      "prefecture": "大阪府",
+      "kind": "ビル",
+      "model": "sakishima",
+      "description": "大阪湾岸のコスモタワー。上部の逆台形の展望フロアが目を引く。",
+      "sources": [
+        {
+          "label": "高さ・階数の一覧資料（二次資料）",
+          "url": "https://ja.wikipedia.org/wiki/日本の超高層建築物・構築物の一覧"
+        }
+      ],
+      "note": "",
+      "order": 12,
+      "rank": 12,
+      "heightBasis": "建築物の高さ（一覧資料基準）",
+      "modelNote": "外形を簡略化した説明用3D。高さ以外の幅・奥行・窓・色は模式表現。"
+    },
+    {
+      "id": "jp-013",
+      "name": "虎ノ門ヒルズ 森タワー",
+      "height": 255.5,
+      "floors": 52,
+      "year": 2014,
+      "location": "東京都港区",
+      "prefecture": "東京都",
+      "kind": "ビル",
+      "model": "toranomon",
+      "description": "道路の上に立つ複合タワー。環状第2号線と街が立体的につながる。",
+      "sources": [
+        {
+          "label": "高さ・階数の一覧資料（二次資料）",
+          "url": "https://ja.wikipedia.org/wiki/日本の超高層建築物・構築物の一覧"
+        }
+      ],
+      "note": "",
+      "order": 13,
+      "rank": 13,
+      "heightBasis": "建築物の高さ（一覧資料基準）",
+      "modelNote": "外形を簡略化した説明用3D。高さ以外の幅・奥行・窓・色は模式表現。"
+    },
+    {
+      "id": "jp-014",
+      "name": "横浜メディアタワー",
+      "height": 253.0,
+      "floors": 22,
+      "year": 1999,
+      "location": "神奈川県横浜市西区",
+      "prefecture": "神奈川県",
+      "kind": "塔・鉄塔",
+      "model": "media",
+      "description": "通信塔を屋上に載せたNTTグループのビル。本体約105mに対し、塔を含む最高部は約253m。",
+      "sources": [
+        {
+          "label": "横浜市｜通信用タワー込み約253m",
+          "url": "https://www.city.yokohama.lg.jp/kurashi/machizukuri-kankyo/toshiseibi/mm21/mmkaihatsu/index39-49.html"
+        },
+        {
+          "label": "高さ・階数の一覧資料（二次資料）",
+          "url": "https://ja.wikipedia.org/wiki/日本の超高層建築物・構築物の一覧"
+        }
+      ],
+      "note": "通信塔込みの最高部。本体は約105m。",
+      "order": 14,
+      "rank": 14,
+      "heightBasis": "通信塔込みの最高部",
+      "modelNote": "外形を簡略化した説明用3D。高さ以外の幅・奥行・窓・色は模式表現。"
+    },
+    {
+      "id": "jp-015",
+      "name": "おおたかどや山標準電波送信所",
+      "height": 250.0,
+      "floors": null,
+      "year": 1999,
+      "location": "福島県田村市・川内村",
+      "prefecture": "福島県",
+      "kind": "塔・鉄塔",
+      "model": "mast",
+      "description": "電波時計に日本標準時を届ける40kHzの送信所。地上高250mの傘型アンテナを持つ。",
+      "sources": [
+        {
+          "label": "NICT｜標準電波施設概要",
+          "url": "https://www.nict.go.jp/sts/jjy.html"
+        },
+        {
+          "label": "高さ・階数の一覧資料（二次資料）",
+          "url": "https://ja.wikipedia.org/wiki/日本の超高層建築物・構築物の一覧"
+        }
+      ],
+      "note": "",
+      "order": 15,
+      "rank": 15,
+      "heightBasis": "地上からの構造物高",
+      "modelNote": "外形を簡略化した説明用3D。高さ以外の幅・奥行・窓・色は模式表現。"
+    },
+    {
+      "id": "jp-016",
+      "name": "TOFROM YAESU TOWER",
+      "height": 249.72,
+      "floors": 51,
+      "year": 2026,
+      "location": "東京都中央区",
+      "prefecture": "東京都",
+      "kind": "ビル",
+      "model": "yaesu",
+      "description": "東京駅八重洲口前の複合ビル。オフィスや劇場、地下のバスターミナルなどを集約。",
+      "sources": [
+        {
+          "label": "東京建物｜2026年2月28日竣工",
+          "url": "https://tatemono.com/news/20260302-2.html"
+        },
+        {
+          "label": "高さ・階数の一覧資料（二次資料）",
+          "url": "https://ja.wikipedia.org/wiki/日本の超高層建築物・構築物の一覧"
+        }
+      ],
+      "note": "",
+      "order": 16,
+      "rank": 16,
+      "heightBasis": "建築物の高さ（一覧資料基準）",
+      "modelNote": "外形を簡略化した説明用3D。高さ以外の幅・奥行・窓・色は模式表現。"
+    },
+    {
+      "id": "jp-017",
+      "name": "ミッドタウン・タワー",
+      "height": 248.1,
+      "floors": 54,
+      "year": 2007,
+      "location": "東京都港区",
+      "prefecture": "東京都",
+      "kind": "ビル",
+      "model": "midtown",
+      "description": "六本木の東京ミッドタウンの中心棟。上層部にはホテルが入る。",
+      "sources": [
+        {
+          "label": "高さ・階数の一覧資料（二次資料）",
+          "url": "https://ja.wikipedia.org/wiki/日本の超高層建築物・構築物の一覧"
+        }
+      ],
+      "note": "",
+      "order": 17,
+      "rank": 17,
+      "heightBasis": "建築物の高さ（一覧資料基準）",
+      "modelNote": "外形を簡略化した説明用3D。高さ以外の幅・奥行・窓・色は模式表現。"
+    },
+    {
+      "id": "jp-018",
+      "name": "ミッドランドスクエア",
+      "height": 247.0,
+      "floors": 47,
+      "year": 2006,
+      "location": "愛知県名古屋市中村区",
+      "prefecture": "愛知県",
+      "kind": "ビル",
+      "model": "midland",
+      "description": "名古屋駅前に立つ超高層ビル。直線的なガラスの外観と上部の展望空間が特徴。",
+      "sources": [
+        {
+          "label": "高さ・階数の一覧資料（二次資料）",
+          "url": "https://ja.wikipedia.org/wiki/日本の超高層建築物・構築物の一覧"
+        }
+      ],
+      "note": "",
+      "order": 18,
+      "rank": 18,
+      "heightBasis": "建築物の高さ（一覧資料基準）",
+      "modelNote": "外形を簡略化した説明用3D。高さ以外の幅・奥行・窓・色は模式表現。"
+    },
+    {
+      "id": "jp-019",
+      "name": "JRセントラルタワーズ オフィス棟",
+      "height": 245.1,
+      "floors": 51,
+      "year": 1999,
+      "location": "愛知県名古屋市中村区",
+      "prefecture": "愛知県",
+      "kind": "ビル",
+      "model": "central",
+      "description": "JR名古屋駅の真上に立つツインタワーのオフィス棟。丸みのある断面が特徴。",
+      "sources": [
+        {
+          "label": "高さ・階数の一覧資料（二次資料）",
+          "url": "https://ja.wikipedia.org/wiki/日本の超高層建築物・構築物の一覧"
+        }
+      ],
+      "note": "",
+      "order": 19,
+      "rank": 19,
+      "heightBasis": "建築物の高さ（一覧資料基準）",
+      "modelNote": "外形を簡略化した説明用3D。高さ以外の幅・奥行・窓・色は模式表現。"
+    },
+    {
+      "id": "jp-020",
+      "name": "NHK菖蒲久喜ラジオ放送所",
+      "height": 245.0,
+      "floors": null,
+      "year": 1982,
+      "location": "埼玉県久喜市",
+      "prefecture": "埼玉県",
+      "kind": "塔・鉄塔",
+      "model": "mast",
+      "description": "関東へラジオの電波を届ける大規模送信施設。第1放送用アンテナの地上高は245m。",
+      "sources": [
+        {
+          "label": "久喜市｜第1放送用地上高245m",
+          "url": "https://www.city.kuki.lg.jp/miryoku/rekishi_bunkazai/rekishi_dayori/1011517.html"
+        },
+        {
+          "label": "高さ・階数の一覧資料（二次資料）",
+          "url": "https://ja.wikipedia.org/wiki/日本の超高層建築物・構築物の一覧"
+        }
+      ],
+      "note": "",
+      "order": 20,
+      "rank": 20,
+      "heightBasis": "地上からの構造物高",
+      "modelNote": "外形を簡略化した説明用3D。高さ以外の幅・奥行・窓・色は模式表現。"
+    },
+    {
+      "id": "jp-021",
+      "name": "瀬戸デジタルタワー",
+      "height": 245.0,
+      "floors": null,
+      "year": 2003,
+      "location": "愛知県瀬戸市",
+      "prefecture": "愛知県",
+      "kind": "塔・鉄塔",
+      "model": "lattice",
+      "description": "中京地区の地上デジタル放送を支える集約電波塔。すらりとした鉄骨の輪郭を持つ。",
+      "sources": [
+        {
+          "label": "高さ・階数の一覧資料（二次資料）",
+          "url": "https://ja.wikipedia.org/wiki/日本の超高層建築物・構築物の一覧"
+        }
+      ],
+      "note": "高さ・現存状況の個別一次確認は未完了。資料掲載値。",
+      "order": 21,
+      "rank": 20,
+      "heightBasis": "地上からの構造物高",
+      "modelNote": "外形を簡略化した説明用3D。高さ以外の幅・奥行・窓・色は模式表現。"
+    },
+    {
+      "id": "jp-022",
+      "name": "東京都庁第一本庁舎",
+      "height": 243.4,
+      "floors": 48,
+      "year": 1991,
+      "location": "東京都新宿区",
+      "prefecture": "東京都",
+      "kind": "ビル",
+      "model": "tocho",
+      "description": "丹下健三設計の都庁舎。上層部で二つに分かれる塔と格子状の外壁が特徴。",
+      "sources": [
+        {
+          "label": "高さ・階数の一覧資料（二次資料）",
+          "url": "https://ja.wikipedia.org/wiki/日本の超高層建築物・構築物の一覧"
+        }
+      ],
+      "note": "",
+      "order": 22,
+      "rank": 22,
+      "heightBasis": "建築物の高さ（一覧資料基準）",
+      "modelNote": "外形を簡略化した説明用3D。高さ以外の幅・奥行・窓・色は模式表現。"
+    },
+    {
+      "id": "jp-023",
+      "name": "NTTドコモ代々木ビル",
+      "height": 239.85,
+      "floors": 27,
+      "year": 2000,
+      "location": "東京都渋谷区",
+      "prefecture": "東京都",
+      "kind": "ビル",
+      "model": "docomo",
+      "description": "新宿南側の街並みにそびえる通信ビル。段状の上部と大きな時計が目印。",
+      "sources": [
+        {
+          "label": "高さ・階数の一覧資料（二次資料）",
+          "url": "https://ja.wikipedia.org/wiki/日本の超高層建築物・構築物の一覧"
+        }
+      ],
+      "note": "",
+      "order": 23,
+      "rank": 23,
+      "heightBasis": "建築物の高さ（一覧資料基準）",
+      "modelNote": "外形を簡略化した説明用3D。高さ以外の幅・奥行・窓・色は模式表現。"
+    },
+    {
+      "id": "jp-024",
+      "name": "サンシャイン60",
+      "height": 239.7,
+      "floors": 60,
+      "year": 1978,
+      "location": "東京都豊島区",
+      "prefecture": "東京都",
+      "kind": "ビル",
+      "model": "sunshine",
+      "description": "池袋のサンシャインシティの中心棟。完成後、長く日本の超高層ビルを代表した。",
+      "sources": [
+        {
+          "label": "高さ・階数の一覧資料（二次資料）",
+          "url": "https://ja.wikipedia.org/wiki/日本の超高層建築物・構築物の一覧"
+        }
+      ],
+      "note": "",
+      "order": 24,
+      "rank": 24,
+      "heightBasis": "建築物の高さ（一覧資料基準）",
+      "modelNote": "外形を簡略化した説明用3D。高さ以外の幅・奥行・窓・色は模式表現。"
+    },
+    {
+      "id": "jp-025",
+      "name": "佐原テレビ中継局",
+      "height": 238.5,
+      "floors": null,
+      "year": 1995,
+      "location": "千葉県香取市",
+      "prefecture": "千葉県",
+      "kind": "塔・鉄塔",
+      "model": "lattice",
+      "description": "千葉県北東部の放送を支える中継塔。山上から地域へ電波を届ける。",
+      "sources": [
+        {
+          "label": "高さ・階数の一覧資料（二次資料）",
+          "url": "https://ja.wikipedia.org/wiki/日本の超高層建築物・構築物の一覧"
+        }
+      ],
+      "note": "高さ・現存状況の個別一次確認は未完了。資料掲載値。",
+      "order": 25,
+      "rank": 25,
+      "heightBasis": "地上からの構造物高",
+      "modelNote": "外形を簡略化した説明用3D。高さ以外の幅・奥行・窓・色は模式表現。"
+    },
+    {
+      "id": "jp-026",
+      "name": "八重洲セントラルタワー",
+      "height": 238.2,
+      "floors": 45,
+      "year": 2022,
+      "location": "東京都中央区",
+      "prefecture": "東京都",
+      "kind": "ビル",
+      "model": "yaesu",
+      "description": "東京ミッドタウン八重洲の中心棟。ガラスの高層部と大きな低層部を組み合わせる。",
+      "sources": [
+        {
+          "label": "高さ・階数の一覧資料（二次資料）",
+          "url": "https://ja.wikipedia.org/wiki/日本の超高層建築物・構築物の一覧"
+        }
+      ],
+      "note": "",
+      "order": 26,
+      "rank": 26,
+      "heightBasis": "建築物の高さ（一覧資料基準）",
+      "modelNote": "外形を簡略化した説明用3D。高さ以外の幅・奥行・窓・色は模式表現。"
+    },
+    {
+      "id": "jp-027",
+      "name": "六本木ヒルズ 森タワー",
+      "height": 238.05,
+      "floors": 54,
+      "year": 2003,
+      "location": "東京都港区",
+      "prefecture": "東京都",
+      "kind": "ビル",
+      "model": "roppongi",
+      "description": "六本木ヒルズの中心棟。厚みのある曲面の外観にオフィスや美術館などを集める。",
+      "sources": [
+        {
+          "label": "高さ・階数の一覧資料（二次資料）",
+          "url": "https://ja.wikipedia.org/wiki/日本の超高層建築物・構築物の一覧"
+        }
+      ],
+      "note": "",
+      "order": 27,
+      "rank": 27,
+      "heightBasis": "建築物の高さ（一覧資料基準）",
+      "modelNote": "外形を簡略化した説明用3D。高さ以外の幅・奥行・窓・色は模式表現。"
+    },
+    {
+      "id": "jp-028",
+      "name": "麻布台ヒルズ レジデンスA",
+      "height": 237.2,
+      "floors": 54,
+      "year": 2023,
+      "location": "東京都港区",
+      "prefecture": "東京都",
+      "kind": "ビル",
+      "model": "residence",
+      "description": "麻布台ヒルズの東側に立つ住宅棟。森JPタワーとともに街区の空を形づくる。",
+      "sources": [
+        {
+          "label": "高さ・階数の一覧資料（二次資料）",
+          "url": "https://ja.wikipedia.org/wiki/日本の超高層建築物・構築物の一覧"
+        }
+      ],
+      "note": "",
+      "order": 28,
+      "rank": 28,
+      "heightBasis": "建築物の高さ（一覧資料基準）",
+      "modelNote": "外形を簡略化した説明用3D。高さ以外の幅・奥行・窓・色は模式表現。"
+    },
+    {
+      "id": "jp-029",
+      "name": "新宿パークタワー",
+      "height": 235.0,
+      "floors": 52,
+      "year": 1994,
+      "location": "東京都新宿区",
+      "prefecture": "東京都",
+      "kind": "ビル",
+      "model": "park",
+      "description": "高さの異なる三つの塔を連ねたビル。とがった屋根が連続する独特のシルエット。",
+      "sources": [
+        {
+          "label": "高さ・階数の一覧資料（二次資料）",
+          "url": "https://ja.wikipedia.org/wiki/日本の超高層建築物・構築物の一覧"
+        }
+      ],
+      "note": "",
+      "order": 29,
+      "rank": 29,
+      "heightBasis": "建築物の高さ（一覧資料基準）",
+      "modelNote": "外形を簡略化した説明用3D。高さ以外の幅・奥行・窓・色は模式表現。"
+    },
+    {
+      "id": "jp-030",
+      "name": "東京オペラシティタワー",
+      "height": 234.371,
+      "floors": 54,
+      "year": 1996,
+      "location": "東京都新宿区",
+      "prefecture": "東京都",
+      "kind": "ビル",
+      "model": "opera",
+      "description": "初台駅に接続する文化・業務複合施設。コンサートホールなどと超高層棟を組み合わせる。",
+      "sources": [
+        {
+          "label": "高さ・階数の一覧資料（二次資料）",
+          "url": "https://ja.wikipedia.org/wiki/日本の超高層建築物・構築物の一覧"
+        }
+      ],
+      "note": "",
+      "order": 30,
+      "rank": 30,
+      "heightBasis": "建築物の高さ（一覧資料基準）",
+      "modelNote": "外形を簡略化した説明用3D。高さ以外の幅・奥行・窓・色は模式表現。"
+    },
+    {
+      "id": "jp-031",
+      "name": "福岡タワー",
+      "height": 234.0,
+      "floors": null,
+      "year": 1989,
+      "location": "福岡県福岡市早良区",
+      "prefecture": "福岡県",
+      "kind": "塔・鉄塔",
+      "model": "fukuoka",
+      "description": "シーサイドももちの展望塔。三角形の断面と鏡面ガラスの外観が特徴。",
+      "sources": [
+        {
+          "label": "高さ・階数の一覧資料（二次資料）",
+          "url": "https://ja.wikipedia.org/wiki/日本の超高層建築物・構築物の一覧"
+        }
+      ],
+      "note": "",
+      "order": 31,
+      "rank": 31,
+      "heightBasis": "地上からの構造物高",
+      "modelNote": "外形を簡略化した説明用3D。高さ以外の幅・奥行・窓・色は模式表現。"
+    },
+    {
+      "id": "jp-032",
+      "name": "住友不動産六本木グランドタワー",
+      "height": 230.76,
+      "floors": 40,
+      "year": 2016,
+      "location": "東京都港区",
+      "prefecture": "東京都",
+      "kind": "ビル",
+      "model": "glass",
+      "description": "六本木一丁目駅に接続するオフィスタワー。大きなガラス面が街を映す。",
+      "sources": [
+        {
+          "label": "高さ・階数の一覧資料（二次資料）",
+          "url": "https://ja.wikipedia.org/wiki/日本の超高層建築物・構築物の一覧"
+        }
+      ],
+      "note": "",
+      "order": 32,
+      "rank": 32,
+      "heightBasis": "建築物の高さ（一覧資料基準）",
+      "modelNote": "外形を簡略化した説明用3D。高さ以外の幅・奥行・窓・色は模式表現。"
+    },
+    {
+      "id": "jp-033",
+      "name": "常陸那珂火力発電所 煙突",
+      "height": 230.0,
+      "floors": null,
+      "year": 2003,
+      "location": "茨城県東海村",
+      "prefecture": "茨城県",
+      "kind": "煙突",
+      "model": "chimney",
+      "description": "海岸の発電所に立つ高い集合煙突。発電所全体ではなく煙突の高さを比べる。",
+      "sources": [
+        {
+          "label": "高さ・階数の一覧資料（二次資料）",
+          "url": "https://ja.wikipedia.org/wiki/日本の超高層建築物・構築物の一覧"
+        }
+      ],
+      "note": "高さ・現存状況の個別一次確認は未完了。資料掲載値。",
+      "order": 33,
+      "rank": 33,
+      "heightBasis": "地上からの構造物高",
+      "modelNote": "外形を簡略化した説明用3D。高さ以外の幅・奥行・窓・色は模式表現。"
+    },
+    {
+      "id": "jp-034",
+      "name": "三菱ケミカル茨城事業所 煙突",
+      "height": 230.0,
+      "floors": null,
+      "year": 2001,
+      "location": "茨城県神栖市",
+      "prefecture": "茨城県",
+      "kind": "煙突",
+      "model": "chimney",
+      "description": "鹿島臨海工業地帯の化学プラントに立つ煙突。旧称・鹿島事業所の資料値を掲載。",
+      "sources": [
+        {
+          "label": "高さ・階数の一覧資料（二次資料）",
+          "url": "https://ja.wikipedia.org/wiki/日本の超高層建築物・構築物の一覧"
+        }
+      ],
+      "note": "高さ・現存状況の個別一次確認は未完了。資料掲載値。",
+      "order": 34,
+      "rank": 33,
+      "heightBasis": "地上からの構造物高",
+      "modelNote": "外形を簡略化した説明用3D。高さ以外の幅・奥行・窓・色は模式表現。"
+    },
+    {
+      "id": "jp-035",
+      "name": "渋谷スクランブルスクエア 東棟",
+      "height": 229.706,
+      "floors": 47,
+      "year": 2019,
+      "location": "東京都渋谷区",
+      "prefecture": "東京都",
+      "kind": "ビル",
+      "model": "shibuya",
+      "description": "渋谷駅の上に立つ複合ビル。段差のある頂部とガラスの外壁が特徴。",
+      "sources": [
+        {
+          "label": "高さ・階数の一覧資料（二次資料）",
+          "url": "https://ja.wikipedia.org/wiki/日本の超高層建築物・構築物の一覧"
+        }
+      ],
+      "note": "",
+      "order": 35,
+      "rank": 35,
+      "heightBasis": "建築物の高さ（一覧資料基準）",
+      "modelNote": "外形を簡略化した説明用3D。高さ以外の幅・奥行・窓・色は模式表現。"
+    },
+    {
+      "id": "jp-036",
+      "name": "BLUE FRONT SHIBAURA S TOWER",
+      "height": 228.88,
+      "floors": 43,
+      "year": 2025,
+      "location": "東京都港区",
+      "prefecture": "東京都",
+      "kind": "ビル",
+      "model": "glass",
+      "description": "芝浦の大規模再開発の南棟。東京湾側の街並みに新しい輪郭を加える。",
+      "sources": [
+        {
+          "label": "高さ・階数の一覧資料（二次資料）",
+          "url": "https://ja.wikipedia.org/wiki/日本の超高層建築物・構築物の一覧"
+        }
+      ],
+      "note": "",
+      "order": 36,
+      "rank": 36,
+      "heightBasis": "建築物の高さ（一覧資料基準）",
+      "modelNote": "外形を簡略化した説明用3D。高さ以外の幅・奥行・窓・色は模式表現。"
+    },
+    {
+      "id": "jp-037",
+      "name": "多々羅大橋 主塔",
+      "height": 226.0,
+      "floors": null,
+      "year": 1999,
+      "location": "広島県尾道市・愛媛県今治市",
+      "prefecture": "広島県",
+      "kind": "橋・主塔",
+      "model": "cablebridge",
+      "description": "しまなみ海道の斜張橋。逆Y字形の主塔からケーブルが扇状に広がる。",
+      "sources": [
+        {
+          "label": "高さ・階数の一覧資料（二次資料）",
+          "url": "https://ja.wikipedia.org/wiki/日本の超高層建築物・構築物の一覧"
+        }
+      ],
+      "note": "",
+      "order": 37,
+      "rank": 37,
+      "heightBasis": "海面からの主塔高",
+      "modelNote": "外形を簡略化した説明用3D。高さ以外の幅・奥行・窓・色は模式表現。"
+    },
+    {
+      "id": "jp-038",
+      "name": "大三島支線 送電鉄塔",
+      "height": 226.0,
+      "floors": null,
+      "year": 1962,
+      "location": "広島県竹原市",
+      "prefecture": "広島県",
+      "kind": "塔・鉄塔",
+      "model": "pylon",
+      "description": "瀬戸内海を越えて電気を送るための鉄塔。海をまたぐ送電線を高く支える。",
+      "sources": [
+        {
+          "label": "高さ・階数の一覧資料（二次資料）",
+          "url": "https://ja.wikipedia.org/wiki/日本の超高層建築物・構築物の一覧"
+        }
+      ],
+      "note": "高さ・現存状況の個別一次確認は未完了。資料掲載値。",
+      "order": 38,
+      "rank": 37,
+      "heightBasis": "地上からの構造物高",
+      "modelNote": "外形を簡略化した説明用3D。高さ以外の幅・奥行・窓・色は模式表現。"
+    },
+    {
+      "id": "jp-039",
+      "name": "JRセントラルタワーズ ホテル棟",
+      "height": 226.0,
+      "floors": 53,
+      "year": 1999,
+      "location": "愛知県名古屋市中村区",
+      "prefecture": "愛知県",
+      "kind": "ビル",
+      "model": "central",
+      "description": "名古屋駅上のツインタワーのホテル棟。隣のオフィス棟と異なる高さを持つ。",
+      "sources": [
+        {
+          "label": "高さ・階数の一覧資料（二次資料）",
+          "url": "https://ja.wikipedia.org/wiki/日本の超高層建築物・構築物の一覧"
+        }
+      ],
+      "note": "",
+      "order": 39,
+      "rank": 37,
+      "heightBasis": "建築物の高さ（一覧資料基準）",
+      "modelNote": "外形を簡略化した説明用3D。高さ以外の幅・奥行・窓・色は模式表現。"
+    },
+    {
+      "id": "jp-040",
+      "name": "東急歌舞伎町タワー",
+      "height": 225.0,
+      "floors": 48,
+      "year": 2023,
+      "location": "東京都新宿区",
+      "prefecture": "東京都",
+      "kind": "ビル",
+      "model": "kabuki",
+      "description": "歌舞伎町に立つエンターテインメント複合タワー。上部に向かう青い外装が特徴。",
+      "sources": [
+        {
+          "label": "高さ・階数の一覧資料（二次資料）",
+          "url": "https://ja.wikipedia.org/wiki/日本の超高層建築物・構築物の一覧"
+        }
+      ],
+      "note": "",
+      "order": 40,
+      "rank": 40,
+      "heightBasis": "建築物の高さ（一覧資料基準）",
+      "modelNote": "外形を簡略化した説明用3D。高さ以外の幅・奥行・窓・色は模式表現。"
+    },
+    {
+      "id": "jp-041",
+      "name": "新宿三井ビルディング",
+      "height": 223.6,
+      "floors": 55,
+      "year": 1974,
+      "location": "東京都新宿区",
+      "prefecture": "東京都",
+      "kind": "ビル",
+      "model": "mitsui",
+      "description": "西新宿の初期超高層ビルの一つ。黒を基調とした端正な直方体の外観。",
+      "sources": [
+        {
+          "label": "高さ・階数の一覧資料（二次資料）",
+          "url": "https://ja.wikipedia.org/wiki/日本の超高層建築物・構築物の一覧"
+        }
+      ],
+      "note": "",
+      "order": 41,
+      "rank": 41,
+      "heightBasis": "建築物の高さ（一覧資料基準）",
+      "modelNote": "外形を簡略化した説明用3D。高さ以外の幅・奥行・窓・色は模式表現。"
+    },
+    {
+      "id": "jp-042",
+      "name": "大崎火力線 大崎瀬戸横断鉄塔",
+      "height": 223.0,
+      "floors": null,
+      "year": 1997,
+      "location": "広島県大崎上島町・竹原市",
+      "prefecture": "広島県",
+      "kind": "塔・鉄塔",
+      "model": "pylon",
+      "description": "瀬戸内海の島と本州側を結ぶ送電設備。細長い鉄骨の塔を支線なしで立ち上げる。",
+      "sources": [
+        {
+          "label": "高さ・階数の一覧資料（二次資料）",
+          "url": "https://ja.wikipedia.org/wiki/日本の超高層建築物・構築物の一覧"
+        }
+      ],
+      "note": "高さ・現存状況の個別一次確認は未完了。資料掲載値。",
+      "order": 42,
+      "rank": 42,
+      "heightBasis": "地上からの構造物高",
+      "modelNote": "外形を簡略化した説明用3D。高さ以外の幅・奥行・窓・色は模式表現。"
+    },
+    {
+      "id": "jp-043",
+      "name": "新宿センタービル",
+      "height": 222.95,
+      "floors": 54,
+      "year": 1979,
+      "location": "東京都新宿区",
+      "prefecture": "東京都",
+      "kind": "ビル",
+      "model": "center",
+      "description": "西新宿の超高層群をつくる一棟。茶系の外装と規則的な窓が特徴。",
+      "sources": [
+        {
+          "label": "高さ・階数の一覧資料（二次資料）",
+          "url": "https://ja.wikipedia.org/wiki/日本の超高層建築物・構築物の一覧"
+        }
+      ],
+      "note": "",
+      "order": 43,
+      "rank": 43,
+      "heightBasis": "建築物の高さ（一覧資料基準）",
+      "modelNote": "外形を簡略化した説明用3D。高さ以外の幅・奥行・窓・色は模式表現。"
+    },
+    {
+      "id": "jp-044",
+      "name": "虎ノ門ヒルズ レジデンシャルタワー",
+      "height": 221.55,
+      "floors": 54,
+      "year": 2022,
+      "location": "東京都港区",
+      "prefecture": "東京都",
+      "kind": "ビル",
+      "model": "residence",
+      "description": "虎ノ門ヒルズの住宅棟。水平に重なるバルコニーが外観のリズムをつくる。",
+      "sources": [
+        {
+          "label": "高さ・階数の一覧資料（二次資料）",
+          "url": "https://ja.wikipedia.org/wiki/日本の超高層建築物・構築物の一覧"
+        }
+      ],
+      "note": "",
+      "order": 44,
+      "rank": 44,
+      "heightBasis": "建築物の高さ（一覧資料基準）",
+      "modelNote": "外形を簡略化した説明用3D。高さ以外の幅・奥行・窓・色は模式表現。"
+    },
+    {
+      "id": "jp-045",
+      "name": "聖路加セントルークスタワー",
+      "height": 220.63,
+      "floors": 48,
+      "year": 1994,
+      "location": "東京都中央区",
+      "prefecture": "東京都",
+      "kind": "ビル",
+      "model": "luke",
+      "description": "隅田川沿いの聖路加ガーデンの業務棟。段状の頂部が水辺の街並みに立つ。",
+      "sources": [
+        {
+          "label": "高さ・階数の一覧資料（二次資料）",
+          "url": "https://ja.wikipedia.org/wiki/日本の超高層建築物・構築物の一覧"
+        }
+      ],
+      "note": "",
+      "order": 45,
+      "rank": 45,
+      "heightBasis": "建築物の高さ（一覧資料基準）",
+      "modelNote": "外形を簡略化した説明用3D。高さ以外の幅・奥行・窓・色は模式表現。"
+    },
+    {
+      "id": "jp-046",
+      "name": "JRゲートタワー",
+      "height": 220.0,
+      "floors": 46,
+      "year": 2017,
+      "location": "愛知県名古屋市中村区",
+      "prefecture": "愛知県",
+      "kind": "ビル",
+      "model": "gate",
+      "description": "JR名古屋駅に隣接する複合タワー。隣のセントラルタワーズと駅前の景色をつくる。",
+      "sources": [
+        {
+          "label": "高さ・階数の一覧資料（二次資料）",
+          "url": "https://ja.wikipedia.org/wiki/日本の超高層建築物・構築物の一覧"
+        }
+      ],
+      "note": "",
+      "order": 46,
+      "rank": 46,
+      "heightBasis": "建築物の高さ（一覧資料基準）",
+      "modelNote": "外形を簡略化した説明用3D。高さ以外の幅・奥行・窓・色は模式表現。"
+    },
+    {
+      "id": "jp-047",
+      "name": "防衛省市ヶ谷 無線鉄塔",
+      "height": 220.0,
+      "floors": null,
+      "year": 1996,
+      "location": "東京都新宿区",
+      "prefecture": "東京都",
+      "kind": "塔・鉄塔",
+      "model": "media",
+      "description": "防衛省の通信を支える鉄塔。建物と屋上の無線塔を合わせた最高部の掲載値。",
+      "sources": [
+        {
+          "label": "高さ・階数の一覧資料（二次資料）",
+          "url": "https://ja.wikipedia.org/wiki/日本の超高層建築物・構築物の一覧"
+        }
+      ],
+      "note": "高さ・現存状況の個別一次確認は未完了。資料掲載値。",
+      "order": 47,
+      "rank": 46,
+      "heightBasis": "通信塔込みの最高部",
+      "modelNote": "外形を簡略化した説明用3D。高さ以外の幅・奥行・窓・色は模式表現。"
+    },
+    {
+      "id": "jp-048",
+      "name": "日本製鉄東日本製鉄所 君津地区 煙突",
+      "height": 220.0,
+      "floors": null,
+      "year": 2001,
+      "location": "千葉県君津市",
+      "prefecture": "千葉県",
+      "kind": "煙突",
+      "model": "chimney",
+      "description": "東京湾沿いの大規模製鉄所の煙突。工業地帯にも超高層ビルに並ぶ構造物がある。",
+      "sources": [
+        {
+          "label": "高さ・階数の一覧資料（二次資料）",
+          "url": "https://ja.wikipedia.org/wiki/日本の超高層建築物・構築物の一覧"
+        }
+      ],
+      "note": "高さ・現存状況の個別一次確認は未完了。資料掲載値。",
+      "order": 48,
+      "rank": 46,
+      "heightBasis": "地上からの構造物高",
+      "modelNote": "外形を簡略化した説明用3D。高さ以外の幅・奥行・窓・色は模式表現。"
+    },
+    {
+      "id": "jp-049",
+      "name": "NTTドコモさいたまビル",
+      "height": 218.5,
+      "floors": 18,
+      "year": 2001,
+      "location": "埼玉県さいたま市中央区",
+      "prefecture": "埼玉県",
+      "kind": "塔・鉄塔",
+      "model": "media",
+      "description": "さいたま新都心の通信ビル。アンテナ鉄塔を含めた高さで、建物本体の高さとは異なる。",
+      "sources": [
+        {
+          "label": "高さ・階数の一覧資料（二次資料）",
+          "url": "https://ja.wikipedia.org/wiki/日本の超高層建築物・構築物の一覧"
+        }
+      ],
+      "note": "高さ・現存状況の個別一次確認は未完了。資料掲載値。",
+      "order": 49,
+      "rank": 49,
+      "heightBasis": "通信塔込みの最高部",
+      "modelNote": "外形を簡略化した説明用3D。高さ以外の幅・奥行・窓・色は模式表現。"
+    },
+    {
+      "id": "jp-050",
+      "name": "汐留シティセンター",
+      "height": 215.75,
+      "floors": 43,
+      "year": 2003,
+      "location": "東京都港区",
+      "prefecture": "東京都",
+      "kind": "ビル",
+      "model": "glass",
+      "description": "汐留の再開発で誕生した業務ビル。緑がかったガラスの外壁を持つ。",
+      "sources": [
+        {
+          "label": "高さ・階数の一覧資料（二次資料）",
+          "url": "https://ja.wikipedia.org/wiki/日本の超高層建築物・構築物の一覧"
+        }
+      ],
+      "note": "",
+      "order": 50,
+      "rank": 50,
+      "heightBasis": "建築物の高さ（一覧資料基準）",
+      "modelNote": "外形を簡略化した説明用3D。高さ以外の幅・奥行・窓・色は模式表現。"
+    },
+    {
+      "id": "jp-051",
+      "name": "住友不動産東京三田ガーデンタワー",
+      "height": 215.0,
+      "floors": 42,
+      "year": 2023,
+      "location": "東京都港区",
+      "prefecture": "東京都",
+      "kind": "ビル",
+      "model": "glass",
+      "description": "三田地区の業務タワー。大きなオフィスフロアを積み重ねた直線的な外観。",
+      "sources": [
+        {
+          "label": "高さ・階数の一覧資料（二次資料）",
+          "url": "https://ja.wikipedia.org/wiki/日本の超高層建築物・構築物の一覧"
+        }
+      ],
+      "note": "",
+      "order": 51,
+      "rank": 51,
+      "heightBasis": "建築物の高さ（一覧資料基準）",
+      "modelNote": "外形を簡略化した説明用3D。高さ以外の幅・奥行・窓・色は模式表現。"
+    },
+    {
+      "id": "jp-052",
+      "name": "G1TOWER",
+      "height": 213.5,
+      "floors": null,
+      "year": 2010,
+      "location": "茨城県ひたちなか市",
+      "prefecture": "茨城県",
+      "kind": "塔・鉄塔",
+      "model": "g1",
+      "description": "日立のエレベーター研究塔。人が暮らすビルとは異なり、昇降機の実験に使う。",
+      "sources": [
+        {
+          "label": "高さ・階数の一覧資料（二次資料）",
+          "url": "https://ja.wikipedia.org/wiki/日本の超高層建築物・構築物の一覧"
+        }
+      ],
+      "note": "",
+      "order": 52,
+      "rank": 52,
+      "heightBasis": "地上からの構造物高",
+      "modelNote": "外形を簡略化した説明用3D。高さ以外の幅・奥行・窓・色は模式表現。"
+    },
+    {
+      "id": "jp-053",
+      "name": "電通本社ビル",
+      "height": 213.337,
+      "floors": 48,
+      "year": 2002,
+      "location": "東京都港区",
+      "prefecture": "東京都",
+      "kind": "ビル",
+      "model": "dentsu",
+      "description": "汐留に立つ業務ビル。曲線を帯びたガラス面と細長い平面形状が特徴。",
+      "sources": [
+        {
+          "label": "高さ・階数の一覧資料（二次資料）",
+          "url": "https://ja.wikipedia.org/wiki/日本の超高層建築物・構築物の一覧"
+        }
+      ],
+      "note": "",
+      "order": 53,
+      "rank": 53,
+      "heightBasis": "建築物の高さ（一覧資料基準）",
+      "modelNote": "外形を簡略化した説明用3D。高さ以外の幅・奥行・窓・色は模式表現。"
+    },
+    {
+      "id": "jp-054",
+      "name": "アクトタワー",
+      "height": 212.77,
+      "floors": 45,
+      "year": 1994,
+      "location": "静岡県浜松市中央区",
+      "prefecture": "静岡県",
+      "kind": "ビル",
+      "model": "act",
+      "description": "浜松駅近くのアクトシティ浜松の高層棟。楽器を思わせる色と輪郭が特徴。",
+      "sources": [
+        {
+          "label": "高さ・階数の一覧資料（二次資料）",
+          "url": "https://ja.wikipedia.org/wiki/日本の超高層建築物・構築物の一覧"
+        }
+      ],
+      "note": "",
+      "order": 54,
+      "rank": 54,
+      "heightBasis": "建築物の高さ（一覧資料基準）",
+      "modelNote": "外形を簡略化した説明用3D。高さ以外の幅・奥行・窓・色は模式表現。"
+    },
+    {
+      "id": "jp-055",
+      "name": "常盤橋タワー",
+      "height": 212.0,
+      "floors": 40,
+      "year": 2021,
+      "location": "東京都千代田区",
+      "prefecture": "東京都",
+      "kind": "ビル",
+      "model": "glass",
+      "description": "東京駅日本橋口側のTOKYO TORCHの一棟。建設中のTorch Towerとは別のビル。",
+      "sources": [
+        {
+          "label": "高さ・階数の一覧資料（二次資料）",
+          "url": "https://ja.wikipedia.org/wiki/日本の超高層建築物・構築物の一覧"
+        }
+      ],
+      "note": "",
+      "order": 55,
+      "rank": 55,
+      "heightBasis": "建築物の高さ（一覧資料基準）",
+      "modelNote": "外形を簡略化した説明用3D。高さ以外の幅・奥行・窓・色は模式表現。"
+    },
+    {
+      "id": "jp-056",
+      "name": "ザ・ランドマーク名古屋栄",
+      "height": 211.7,
+      "floors": 41,
+      "year": 2026,
+      "location": "愛知県名古屋市中区",
+      "prefecture": "愛知県",
+      "kind": "ビル",
+      "model": "nihonbashi",
+      "description": "栄の中心部に2026年竣工した複合ビル。オフィス・商業・ホテルなどを集約。",
+      "sources": [
+        {
+          "label": "日本郵政不動産｜物件概要",
+          "url": "https://www.jp-re.japanpost.jp/properties/landmark-nagoya-sakae.html"
+        },
+        {
+          "label": "高さ・階数の一覧資料（二次資料）",
+          "url": "https://ja.wikipedia.org/wiki/日本の超高層建築物・構築物の一覧"
+        }
+      ],
+      "note": "",
+      "order": 56,
+      "rank": 56,
+      "heightBasis": "建築物の高さ（一覧資料基準）",
+      "modelNote": "外形を簡略化した説明用3D。高さ以外の幅・奥行・窓・色は模式表現。"
+    },
+    {
+      "id": "jp-057",
+      "name": "新宿住友ビルディング",
+      "height": 211.381,
+      "floors": 52,
+      "year": 1974,
+      "location": "東京都新宿区",
+      "prefecture": "東京都",
+      "kind": "ビル",
+      "model": "sumitomo",
+      "description": "「三角ビル」として親しまれる超高層ビル。三角形の平面が大きな特徴。",
+      "sources": [
+        {
+          "label": "高さ・階数の一覧資料（二次資料）",
+          "url": "https://ja.wikipedia.org/wiki/日本の超高層建築物・構築物の一覧"
+        }
+      ],
+      "note": "",
+      "order": 57,
+      "rank": 57,
+      "heightBasis": "建築物の高さ（一覧資料基準）",
+      "modelNote": "外形を簡略化した説明用3D。高さ以外の幅・奥行・窓・色は模式表現。"
+    },
+    {
+      "id": "jp-058",
+      "name": "豊島清掃工場 煙突",
+      "height": 210.0,
+      "floors": null,
+      "year": 1999,
+      "location": "東京都豊島区",
+      "prefecture": "東京都",
+      "kind": "煙突",
+      "model": "toshima",
+      "description": "池袋の街から見える白い煙突。市街地の廃棄物処理を支える施設の一部。",
+      "sources": [
+        {
+          "label": "高さ・階数の一覧資料（二次資料）",
+          "url": "https://ja.wikipedia.org/wiki/日本の超高層建築物・構築物の一覧"
+        }
+      ],
+      "note": "",
+      "order": 58,
+      "rank": 58,
+      "heightBasis": "地上からの構造物高",
+      "modelNote": "外形を簡略化した説明用3D。高さ以外の幅・奥行・窓・色は模式表現。"
+    },
+    {
+      "id": "jp-059",
+      "name": "新宿野村ビル",
+      "height": 209.9,
+      "floors": 50,
+      "year": 1978,
+      "location": "東京都新宿区",
+      "prefecture": "東京都",
+      "kind": "ビル",
+      "model": "nomura",
+      "description": "西新宿の超高層群に立つオフィスビル。明るい外壁と横方向の窓が特徴。",
+      "sources": [
+        {
+          "label": "高さ・階数の一覧資料（二次資料）",
+          "url": "https://ja.wikipedia.org/wiki/日本の超高層建築物・構築物の一覧"
+        }
+      ],
+      "note": "",
+      "order": 59,
+      "rank": 59,
+      "heightBasis": "建築物の高さ（一覧資料基準）",
+      "modelNote": "外形を簡略化した説明用3D。高さ以外の幅・奥行・窓・色は模式表現。"
+    },
+    {
+      "id": "jp-060",
+      "name": "The Kitahama",
+      "height": 209.35,
+      "floors": 54,
+      "year": 2009,
+      "location": "大阪府大阪市中央区",
+      "prefecture": "大阪府",
+      "kind": "ビル",
+      "model": "residence",
+      "description": "北浜駅付近のタワーマンション。大阪の都心に細長い住宅棟が立ち上がる。",
+      "sources": [
+        {
+          "label": "高さ・階数の一覧資料（二次資料）",
+          "url": "https://ja.wikipedia.org/wiki/日本の超高層建築物・構築物の一覧"
+        }
+      ],
+      "note": "",
+      "order": 60,
+      "rank": 60,
+      "heightBasis": "建築物の高さ（一覧資料基準）",
+      "modelNote": "外形を簡略化した説明用3D。高さ以外の幅・奥行・窓・色は模式表現。"
+    },
+    {
+      "id": "jp-061",
+      "name": "赤坂トラストタワー",
+      "height": 209.14,
+      "floors": 43,
+      "year": 2024,
+      "location": "東京都港区",
+      "prefecture": "東京都",
+      "kind": "ビル",
+      "model": "glass",
+      "description": "東京ワールドゲート赤坂の中心棟。高層部にオフィスやホテルを組み込む。",
+      "sources": [
+        {
+          "label": "高さ・階数の一覧資料（二次資料）",
+          "url": "https://ja.wikipedia.org/wiki/日本の超高層建築物・構築物の一覧"
+        }
+      ],
+      "note": "",
+      "order": 61,
+      "rank": 61,
+      "heightBasis": "建築物の高さ（一覧資料基準）",
+      "modelNote": "外形を簡略化した説明用3D。高さ以外の幅・奥行・窓・色は模式表現。"
+    },
+    {
+      "id": "jp-062",
+      "name": "ザ・パークハウス 西新宿タワー60",
+      "height": 208.97,
+      "floors": 60,
+      "year": 2017,
+      "location": "東京都新宿区",
+      "prefecture": "東京都",
+      "kind": "ビル",
+      "model": "residence",
+      "description": "西新宿の60階建て住宅。均整のとれた四角い高層部に住戸が重なる。",
+      "sources": [
+        {
+          "label": "高さ・階数の一覧資料（二次資料）",
+          "url": "https://ja.wikipedia.org/wiki/日本の超高層建築物・構築物の一覧"
+        }
+      ],
+      "note": "",
+      "order": 62,
+      "rank": 62,
+      "heightBasis": "建築物の高さ（一覧資料基準）",
+      "modelNote": "外形を簡略化した説明用3D。高さ以外の幅・奥行・窓・色は模式表現。"
+    },
+    {
+      "id": "jp-063",
+      "name": "東京ポートシティ竹芝 オフィスタワー",
+      "height": 208.83,
+      "floors": 40,
+      "year": 2020,
+      "location": "東京都港区",
+      "prefecture": "東京都",
+      "kind": "ビル",
+      "model": "terrace",
+      "description": "竹芝のスマートビル。段状の緑のテラスと高層オフィスを組み合わせる。",
+      "sources": [
+        {
+          "label": "高さ・階数の一覧資料（二次資料）",
+          "url": "https://ja.wikipedia.org/wiki/日本の超高層建築物・構築物の一覧"
+        }
+      ],
+      "note": "",
+      "order": 63,
+      "rank": 63,
+      "heightBasis": "建築物の高さ（一覧資料基準）",
+      "modelNote": "外形を簡略化した説明用3D。高さ以外の幅・奥行・窓・色は模式表現。"
+    },
+    {
+      "id": "jp-064",
+      "name": "エリエールタワー（三島工場集合煙突）",
+      "height": 207.0,
+      "floors": null,
+      "year": 1985,
+      "location": "愛媛県四国中央市",
+      "prefecture": "愛媛県",
+      "kind": "煙突",
+      "model": "chimney",
+      "description": "大王製紙の工場に立つ高層集合煙突。製紙業の街を象徴する構造物の一つ。",
+      "sources": [
+        {
+          "label": "高さ・階数の一覧資料（二次資料）",
+          "url": "https://ja.wikipedia.org/wiki/日本の超高層建築物・構築物の一覧"
+        }
+      ],
+      "note": "高さ・現存状況の個別一次確認は未完了。資料掲載値。",
+      "order": 64,
+      "rank": 64,
+      "heightBasis": "地上からの構造物高",
+      "modelNote": "外形を簡略化した説明用3D。高さ以外の幅・奥行・窓・色は模式表現。"
+    },
+    {
+      "id": "jp-065",
+      "name": "アークヒルズ仙石山森タワー",
+      "height": 206.69,
+      "floors": 47,
+      "year": 2012,
+      "location": "東京都港区",
+      "prefecture": "東京都",
+      "kind": "ビル",
+      "model": "glass",
+      "description": "六本木・虎ノ門の丘に立つ複合タワー。住宅とオフィスを一つの棟に重ねる。",
+      "sources": [
+        {
+          "label": "高さ・階数の一覧資料（二次資料）",
+          "url": "https://ja.wikipedia.org/wiki/日本の超高層建築物・構築物の一覧"
+        }
+      ],
+      "note": "",
+      "order": 65,
+      "rank": 65,
+      "heightBasis": "建築物の高さ（一覧資料基準）",
+      "modelNote": "外形を簡略化した説明用3D。高さ以外の幅・奥行・窓・色は模式表現。"
+    },
+    {
+      "id": "jp-066",
+      "name": "赤坂インターシティAIR",
+      "height": 205.08,
+      "floors": 38,
+      "year": 2017,
+      "location": "東京都港区",
+      "prefecture": "東京都",
+      "kind": "ビル",
+      "model": "terrace",
+      "description": "赤坂の緑地に接する超高層ビル。大きなガラス面と低層部の緑が特徴。",
+      "sources": [
+        {
+          "label": "高さ・階数の一覧資料（二次資料）",
+          "url": "https://ja.wikipedia.org/wiki/日本の超高層建築物・構築物の一覧"
+        }
+      ],
+      "note": "",
+      "order": 66,
+      "rank": 66,
+      "heightBasis": "建築物の高さ（一覧資料基準）",
+      "modelNote": "外形を簡略化した説明用3D。高さ以外の幅・奥行・窓・色は模式表現。"
+    },
+    {
+      "id": "jp-067",
+      "name": "グラントウキョウ サウスタワー",
+      "height": 205.0,
+      "floors": 42,
+      "year": 2007,
+      "location": "東京都千代田区",
+      "prefecture": "東京都",
+      "kind": "ビル",
+      "model": "glass",
+      "description": "東京駅八重洲口の南側に立つ駅前タワー。ノースタワーと対になる。",
+      "sources": [
+        {
+          "label": "高さ・階数の一覧資料（二次資料）",
+          "url": "https://ja.wikipedia.org/wiki/日本の超高層建築物・構築物の一覧"
+        }
+      ],
+      "note": "",
+      "order": 67,
+      "rank": 67,
+      "heightBasis": "建築物の高さ（一覧資料基準）",
+      "modelNote": "外形を簡略化した説明用3D。高さ以外の幅・奥行・窓・色は模式表現。"
+    },
+    {
+      "id": "jp-068",
+      "name": "グラントウキョウ ノースタワー",
+      "height": 204.9,
+      "floors": 43,
+      "year": 2007,
+      "location": "東京都千代田区",
+      "prefecture": "東京都",
+      "kind": "ビル",
+      "model": "glass",
+      "description": "東京駅八重洲口の北側のタワー。南棟とは階数も高さも少し異なる。",
+      "sources": [
+        {
+          "label": "高さ・階数の一覧資料（二次資料）",
+          "url": "https://ja.wikipedia.org/wiki/日本の超高層建築物・構築物の一覧"
+        }
+      ],
+      "note": "",
+      "order": 68,
+      "rank": 68,
+      "heightBasis": "建築物の高さ（一覧資料基準）",
+      "modelNote": "外形を簡略化した説明用3D。高さ以外の幅・奥行・窓・色は模式表現。"
+    },
+    {
+      "id": "jp-069",
+      "name": "モード学園コクーンタワー",
+      "height": 203.65,
+      "floors": 50,
+      "year": 2008,
+      "location": "東京都新宿区",
+      "prefecture": "東京都",
+      "kind": "ビル",
+      "model": "cocoon",
+      "description": "繭をモチーフにした教育施設。曲面を包む斜めの格子が街の中で際立つ。",
+      "sources": [
+        {
+          "label": "高さ・階数の一覧資料（二次資料）",
+          "url": "https://ja.wikipedia.org/wiki/日本の超高層建築物・構築物の一覧"
+        }
+      ],
+      "note": "",
+      "order": 69,
+      "rank": 69,
+      "heightBasis": "建築物の高さ（一覧資料基準）",
+      "modelNote": "外形を簡略化した説明用3D。高さ以外の幅・奥行・窓・色は模式表現。"
+    },
+    {
+      "id": "jp-070",
+      "name": "パークシティ武蔵小杉 ミッドスカイタワー",
+      "height": 203.5,
+      "floors": 59,
+      "year": 2009,
+      "location": "神奈川県川崎市中原区",
+      "prefecture": "神奈川県",
+      "kind": "ビル",
+      "model": "residence",
+      "description": "武蔵小杉駅周辺の超高層住宅群の一棟。高層部までバルコニーが連続する。",
+      "sources": [
+        {
+          "label": "高さ・階数の一覧資料（二次資料）",
+          "url": "https://ja.wikipedia.org/wiki/日本の超高層建築物・構築物の一覧"
+        }
+      ],
+      "note": "",
+      "order": 70,
+      "rank": 70,
+      "heightBasis": "建築物の高さ（一覧資料基準）",
+      "modelNote": "外形を簡略化した説明用3D。高さ以外の幅・奥行・窓・色は模式表現。"
+    },
+    {
+      "id": "jp-071",
+      "name": "泉ガーデンタワー",
+      "height": 200.9,
+      "floors": 45,
+      "year": 2002,
+      "location": "東京都港区",
+      "prefecture": "東京都",
+      "kind": "ビル",
+      "model": "izumi",
+      "description": "六本木一丁目駅に隣接するタワー。緑を帯びたガラス外装が印象的。",
+      "sources": [
+        {
+          "label": "高さ・階数の一覧資料（二次資料）",
+          "url": "https://ja.wikipedia.org/wiki/日本の超高層建築物・構築物の一覧"
+        }
+      ],
+      "note": "",
+      "order": 71,
+      "rank": 71,
+      "heightBasis": "建築物の高さ（一覧資料基準）",
+      "modelNote": "外形を簡略化した説明用3D。高さ以外の幅・奥行・窓・色は模式表現。"
+    },
+    {
+      "id": "jp-072",
+      "name": "クロスタワー大阪ベイ",
+      "height": 200.375,
+      "floors": 54,
+      "year": 2006,
+      "location": "大阪府大阪市港区",
+      "prefecture": "大阪府",
+      "kind": "ビル",
+      "model": "residence",
+      "description": "弁天町のタワーマンション。大阪湾側の街並みに立つ高層住宅。",
+      "sources": [
+        {
+          "label": "高さ・階数の一覧資料（二次資料）",
+          "url": "https://ja.wikipedia.org/wiki/日本の超高層建築物・構築物の一覧"
+        }
+      ],
+      "note": "",
+      "order": 72,
+      "rank": 72,
+      "heightBasis": "建築物の高さ（一覧資料基準）",
+      "modelNote": "外形を簡略化した説明用3D。高さ以外の幅・奥行・窓・色は模式表現。"
+    },
+    {
+      "id": "jp-073",
+      "name": "大阪ベイタワー メインタワー",
+      "height": 200.05,
+      "floors": 51,
+      "year": 1993,
+      "location": "大阪府大阪市港区",
+      "prefecture": "大阪府",
+      "kind": "ビル",
+      "model": "bay",
+      "description": "弁天町駅に接続する複合施設の高層棟。上部にホテルなどを持つ。",
+      "sources": [
+        {
+          "label": "高さ・階数の一覧資料（二次資料）",
+          "url": "https://ja.wikipedia.org/wiki/日本の超高層建築物・構築物の一覧"
+        }
+      ],
+      "note": "",
+      "order": 73,
+      "rank": 73,
+      "heightBasis": "建築物の高さ（一覧資料基準）",
+      "modelNote": "外形を簡略化した説明用3D。高さ以外の幅・奥行・窓・色は模式表現。"
+    },
+    {
+      "id": "jp-074",
+      "name": "川越火力発電所 集合煙突",
+      "height": 200.044,
+      "floors": null,
+      "year": null,
+      "location": "三重県川越町",
+      "prefecture": "三重県",
+      "kind": "煙突",
+      "model": "chimney",
+      "description": "伊勢湾岸に立つ発電所の集合煙突。3・4号機側の掲載値を施設の代表高さとする。",
+      "sources": [
+        {
+          "label": "高さ・階数の一覧資料（二次資料）",
+          "url": "https://ja.wikipedia.org/wiki/日本の超高層建築物・構築物の一覧"
+        }
+      ],
+      "note": "高さ・現存状況の個別一次確認は未完了。資料掲載値。",
+      "order": 74,
+      "rank": 74,
+      "heightBasis": "地上からの構造物高",
+      "modelNote": "外形を簡略化した説明用3D。高さ以外の幅・奥行・窓・色は模式表現。"
+    },
+    {
+      "id": "jp-075",
+      "name": "JPタワー",
+      "height": 200.0,
+      "floors": 38,
+      "year": 2012,
+      "location": "東京都千代田区",
+      "prefecture": "東京都",
+      "kind": "ビル",
+      "model": "jp",
+      "description": "東京駅丸の内口のKITTEを含むビル。旧東京中央郵便局の外観を低層部に残す。",
+      "sources": [
+        {
+          "label": "高さ・階数の一覧資料（二次資料）",
+          "url": "https://ja.wikipedia.org/wiki/日本の超高層建築物・構築物の一覧"
+        }
+      ],
+      "note": "",
+      "order": 75,
+      "rank": 75,
+      "heightBasis": "建築物の高さ（一覧資料基準）",
+      "modelNote": "外形を簡略化した説明用3D。高さ以外の幅・奥行・窓・色は模式表現。"
+    },
+    {
+      "id": "jp-076",
+      "name": "読売新聞東京本社ビル",
+      "height": 200.0,
+      "floors": 33,
+      "year": 2013,
+      "location": "東京都千代田区",
+      "prefecture": "東京都",
+      "kind": "ビル",
+      "model": "glass",
+      "description": "大手町の新聞社本社ビル。業務機能などをまとめた高層棟。",
+      "sources": [
+        {
+          "label": "高さ・階数の一覧資料（二次資料）",
+          "url": "https://ja.wikipedia.org/wiki/日本の超高層建築物・構築物の一覧"
+        }
+      ],
+      "note": "",
+      "order": 76,
+      "rank": 75,
+      "heightBasis": "建築物の高さ（一覧資料基準）",
+      "modelNote": "外形を簡略化した説明用3D。高さ以外の幅・奥行・窓・色は模式表現。"
+    },
+    {
+      "id": "jp-077",
+      "name": "Otemachi Oneタワー",
+      "height": 200.0,
+      "floors": 39,
+      "year": 2020,
+      "location": "東京都千代田区",
+      "prefecture": "東京都",
+      "kind": "ビル",
+      "model": "glass",
+      "description": "大手町の大規模複合街区の一棟。オフィスやホテルなどを集める。",
+      "sources": [
+        {
+          "label": "高さ・階数の一覧資料（二次資料）",
+          "url": "https://ja.wikipedia.org/wiki/日本の超高層建築物・構築物の一覧"
+        }
+      ],
+      "note": "",
+      "order": 77,
+      "rank": 75,
+      "heightBasis": "建築物の高さ（一覧資料基準）",
+      "modelNote": "外形を簡略化した説明用3D。高さ以外の幅・奥行・窓・色は模式表現。"
+    },
+    {
+      "id": "jp-078",
+      "name": "損保ジャパン本社ビル",
+      "height": 200.0,
+      "floors": 43,
+      "year": 1976,
+      "location": "東京都新宿区",
+      "prefecture": "東京都",
+      "kind": "ビル",
+      "model": "sompo",
+      "description": "裾が広がる曲面の外壁が特徴。西新宿の初期の超高層ビルの一つ。",
+      "sources": [
+        {
+          "label": "高さ・階数の一覧資料（二次資料）",
+          "url": "https://ja.wikipedia.org/wiki/日本の超高層建築物・構築物の一覧"
+        }
+      ],
+      "note": "",
+      "order": 78,
+      "rank": 75,
+      "heightBasis": "建築物の高さ（一覧資料基準）",
+      "modelNote": "外形を簡略化した説明用3D。高さ以外の幅・奥行・窓・色は模式表現。"
+    },
+    {
+      "id": "jp-079",
+      "name": "知多火力発電所 5・6号煙突",
+      "height": 200.0,
+      "floors": null,
+      "year": null,
+      "location": "愛知県知多市",
+      "prefecture": "愛知県",
+      "kind": "煙突",
+      "model": "chimney",
+      "description": "施工会社が高さ200mと紹介する煙突。解体が報じられた旧220m煙突とは区別。",
+      "sources": [
+        {
+          "label": "シーテック｜煙突高さ200m",
+          "url": "https://www.ctechcorp.co.jp/business/infrastructure/painting/"
+        },
+        {
+          "label": "高さ・階数の一覧資料（二次資料）",
+          "url": "https://ja.wikipedia.org/wiki/日本の超高層建築物・構築物の一覧"
+        }
+      ],
+      "note": "旧220m煙突は解体報道があるため除外。5・6号の200mを採用。",
+      "order": 79,
+      "rank": 75,
+      "heightBasis": "地上からの構造物高",
+      "modelNote": "外形を簡略化した説明用3D。高さ以外の幅・奥行・窓・色は模式表現。"
+    },
+    {
+      "id": "jp-080",
+      "name": "知多第二火力発電所 煙突",
+      "height": 200.0,
+      "floors": null,
+      "year": null,
+      "location": "愛知県知多市",
+      "prefecture": "愛知県",
+      "kind": "煙突",
+      "model": "chimney",
+      "description": "知多半島の発電所の煙突。知多火力発電所とは別の施設として掲載。",
+      "sources": [
+        {
+          "label": "高さ・階数の一覧資料（二次資料）",
+          "url": "https://ja.wikipedia.org/wiki/日本の超高層建築物・構築物の一覧"
+        }
+      ],
+      "note": "高さ・現存状況の個別一次確認は未完了。資料掲載値。",
+      "order": 80,
+      "rank": 75,
+      "heightBasis": "地上からの構造物高",
+      "modelNote": "外形を簡略化した説明用3D。高さ以外の幅・奥行・窓・色は模式表現。"
+    },
+    {
+      "id": "jp-081",
+      "name": "碧南火力発電所 煙突",
+      "height": 200.0,
+      "floors": null,
+      "year": null,
+      "location": "愛知県碧南市",
+      "prefecture": "愛知県",
+      "kind": "煙突",
+      "model": "chimney",
+      "description": "衣浦港沿いの発電所の煙突。複数の煙突は施設単位で一つにまとめて掲載。",
+      "sources": [
+        {
+          "label": "高さ・階数の一覧資料（二次資料）",
+          "url": "https://ja.wikipedia.org/wiki/日本の超高層建築物・構築物の一覧"
+        }
+      ],
+      "note": "高さ・現存状況の個別一次確認は未完了。資料掲載値。",
+      "order": 81,
+      "rank": 75,
+      "heightBasis": "地上からの構造物高",
+      "modelNote": "外形を簡略化した説明用3D。高さ以外の幅・奥行・窓・色は模式表現。"
+    },
+    {
+      "id": "jp-082",
+      "name": "南港発電所 スカイタワー",
+      "height": 200.0,
+      "floors": null,
+      "year": null,
+      "location": "大阪府大阪市住之江区",
+      "prefecture": "大阪府",
+      "kind": "煙突",
+      "model": "chimney",
+      "description": "大阪湾岸に立つ発電所の煙突。ライトアップの対象にもなった構造物。",
+      "sources": [
+        {
+          "label": "関西電力｜スカイタワーの紹介",
+          "url": "https://www.kepco.co.jp/corporate/pr/2017/1221_1j.html"
+        },
+        {
+          "label": "高さ・階数の一覧資料（二次資料）",
+          "url": "https://ja.wikipedia.org/wiki/日本の超高層建築物・構築物の一覧"
+        }
+      ],
+      "note": "高さ・現存状況の個別一次確認は未完了。資料掲載値。",
+      "order": 82,
+      "rank": 75,
+      "heightBasis": "地上からの構造物高",
+      "modelNote": "外形を簡略化した説明用3D。高さ以外の幅・奥行・窓・色は模式表現。"
+    },
+    {
+      "id": "jp-083",
+      "name": "富山新港火力発電所 煙突",
+      "height": 200.0,
+      "floors": null,
+      "year": null,
+      "location": "富山県射水市",
+      "prefecture": "富山県",
+      "kind": "煙突",
+      "model": "chimney",
+      "description": "富山新港に面する発電所の煙突。更新設備と既設設備は分けて確認する必要がある。",
+      "sources": [
+        {
+          "label": "高さ・階数の一覧資料（二次資料）",
+          "url": "https://ja.wikipedia.org/wiki/日本の超高層建築物・構築物の一覧"
+        }
+      ],
+      "note": "高さ・現存状況の個別一次確認は未完了。資料掲載値。",
+      "order": 83,
+      "rank": 75,
+      "heightBasis": "地上からの構造物高",
+      "modelNote": "外形を簡略化した説明用3D。高さ以外の幅・奥行・窓・色は模式表現。"
+    },
+    {
+      "id": "jp-084",
+      "name": "七尾大田火力発電所 煙突",
+      "height": 200.0,
+      "floors": null,
+      "year": null,
+      "location": "石川県七尾市",
+      "prefecture": "石川県",
+      "kind": "煙突",
+      "model": "chimney",
+      "description": "能登半島の発電所に立つ煙突。工業施設の高さを示す代表例。",
+      "sources": [
+        {
+          "label": "高さ・階数の一覧資料（二次資料）",
+          "url": "https://ja.wikipedia.org/wiki/日本の超高層建築物・構築物の一覧"
+        }
+      ],
+      "note": "高さ・現存状況の個別一次確認は未完了。資料掲載値。",
+      "order": 84,
+      "rank": 75,
+      "heightBasis": "地上からの構造物高",
+      "modelNote": "外形を簡略化した説明用3D。高さ以外の幅・奥行・窓・色は模式表現。"
+    },
+    {
+      "id": "jp-085",
+      "name": "敦賀火力発電所 煙突",
+      "height": 200.0,
+      "floors": null,
+      "year": null,
+      "location": "福井県敦賀市",
+      "prefecture": "福井県",
+      "kind": "煙突",
+      "model": "chimney",
+      "description": "敦賀湾の発電所に立つ煙突。原子力発電所ではなく火力発電所の設備。",
+      "sources": [
+        {
+          "label": "高さ・階数の一覧資料（二次資料）",
+          "url": "https://ja.wikipedia.org/wiki/日本の超高層建築物・構築物の一覧"
+        }
+      ],
+      "note": "高さ・現存状況の個別一次確認は未完了。資料掲載値。",
+      "order": 85,
+      "rank": 75,
+      "heightBasis": "地上からの構造物高",
+      "modelNote": "外形を簡略化した説明用3D。高さ以外の幅・奥行・窓・色は模式表現。"
+    },
+    {
+      "id": "jp-086",
+      "name": "JFEスチール東日本製鉄所 千葉地区 煙突",
+      "height": 200.0,
+      "floors": null,
+      "year": null,
+      "location": "千葉県千葉市中央区",
+      "prefecture": "千葉県",
+      "kind": "煙突",
+      "model": "chimney",
+      "description": "千葉港の製鉄所に立つ高層煙突。製鉄設備とともに臨海部の景色をつくる。",
+      "sources": [
+        {
+          "label": "高さ・階数の一覧資料（二次資料）",
+          "url": "https://ja.wikipedia.org/wiki/日本の超高層建築物・構築物の一覧"
+        }
+      ],
+      "note": "高さ・現存状況の個別一次確認は未完了。資料掲載値。",
+      "order": 86,
+      "rank": 75,
+      "heightBasis": "地上からの構造物高",
+      "modelNote": "外形を簡略化した説明用3D。高さ以外の幅・奥行・窓・色は模式表現。"
+    },
+    {
+      "id": "jp-087",
+      "name": "袖ケ浦火力発電所 煙突",
+      "height": 200.0,
+      "floors": null,
+      "year": null,
+      "location": "千葉県袖ケ浦市",
+      "prefecture": "千葉県",
+      "kind": "煙突",
+      "model": "chimney",
+      "description": "東京湾東岸の発電所の煙突。複数基を重複させず施設単位で掲載する。",
+      "sources": [
+        {
+          "label": "高さ・階数の一覧資料（二次資料）",
+          "url": "https://ja.wikipedia.org/wiki/日本の超高層建築物・構築物の一覧"
+        }
+      ],
+      "note": "高さ・現存状況の個別一次確認は未完了。資料掲載値。",
+      "order": 87,
+      "rank": 75,
+      "heightBasis": "地上からの構造物高",
+      "modelNote": "外形を簡略化した説明用3D。高さ以外の幅・奥行・窓・色は模式表現。"
+    },
+    {
+      "id": "jp-088",
+      "name": "磯子火力発電所 煙突",
+      "height": 200.0,
+      "floors": null,
+      "year": null,
+      "location": "神奈川県横浜市磯子区",
+      "prefecture": "神奈川県",
+      "kind": "煙突",
+      "model": "chimney",
+      "description": "横浜の臨海部に立つ発電所の煙突。煙突高を建築物の高さと並べて比較する。",
+      "sources": [
+        {
+          "label": "高さ・階数の一覧資料（二次資料）",
+          "url": "https://ja.wikipedia.org/wiki/日本の超高層建築物・構築物の一覧"
+        }
+      ],
+      "note": "高さ・現存状況の個別一次確認は未完了。資料掲載値。",
+      "order": 88,
+      "rank": 75,
+      "heightBasis": "地上からの構造物高",
+      "modelNote": "外形を簡略化した説明用3D。高さ以外の幅・奥行・窓・色は模式表現。"
+    },
+    {
+      "id": "jp-089",
+      "name": "横浜火力発電所 煙突",
+      "height": 200.0,
+      "floors": null,
+      "year": null,
+      "location": "神奈川県横浜市鶴見区",
+      "prefecture": "神奈川県",
+      "kind": "煙突",
+      "model": "chimney",
+      "description": "横浜港の湾岸部にある発電設備の煙突。橋やビルとは異なる細い高層構造。",
+      "sources": [
+        {
+          "label": "高さ・階数の一覧資料（二次資料）",
+          "url": "https://ja.wikipedia.org/wiki/日本の超高層建築物・構築物の一覧"
+        }
+      ],
+      "note": "高さ・現存状況の個別一次確認は未完了。資料掲載値。",
+      "order": 89,
+      "rank": 75,
+      "heightBasis": "地上からの構造物高",
+      "modelNote": "外形を簡略化した説明用3D。高さ以外の幅・奥行・窓・色は模式表現。"
+    },
+    {
+      "id": "jp-090",
+      "name": "橘湾火力発電所 煙突",
+      "height": 200.0,
+      "floors": null,
+      "year": 2000,
+      "location": "徳島県阿南市",
+      "prefecture": "徳島県",
+      "kind": "煙突",
+      "model": "chimney",
+      "description": "橘湾沿いの発電所群の高層煙突。同じ敷地周辺の煙突群を一つの項目で紹介。",
+      "sources": [
+        {
+          "label": "高さ・階数の一覧資料（二次資料）",
+          "url": "https://ja.wikipedia.org/wiki/日本の超高層建築物・構築物の一覧"
+        }
+      ],
+      "note": "高さ・現存状況の個別一次確認は未完了。資料掲載値。",
+      "order": 90,
+      "rank": 75,
+      "heightBasis": "地上からの構造物高",
+      "modelNote": "外形を簡略化した説明用3D。高さ以外の幅・奥行・窓・色は模式表現。"
+    },
+    {
+      "id": "jp-091",
+      "name": "はがね山標準電波送信所",
+      "height": 200.0,
+      "floors": null,
+      "year": 2001,
+      "location": "佐賀県佐賀市・福岡県糸島市",
+      "prefecture": "佐賀県",
+      "kind": "塔・鉄塔",
+      "model": "mast",
+      "description": "西日本側から標準時を届ける60kHzの送信所。地上高200mの傘型アンテナを持つ。",
+      "sources": [
+        {
+          "label": "NICT｜標準電波施設概要",
+          "url": "https://www.nict.go.jp/sts/jjy.html"
+        },
+        {
+          "label": "高さ・階数の一覧資料（二次資料）",
+          "url": "https://ja.wikipedia.org/wiki/日本の超高層建築物・構築物の一覧"
+        }
+      ],
+      "note": "",
+      "order": 91,
+      "rank": 75,
+      "heightBasis": "地上からの構造物高",
+      "modelNote": "外形を簡略化した説明用3D。高さ以外の幅・奥行・窓・色は模式表現。"
+    },
+    {
+      "id": "jp-092",
+      "name": "YOKOHAMA KITANAKA KNOT",
+      "height": 199.95,
+      "floors": 58,
+      "year": 2020,
+      "location": "神奈川県横浜市中区",
+      "prefecture": "神奈川県",
+      "kind": "ビル",
+      "model": "residence",
+      "description": "横浜・北仲地区の高層住宅。歴史ある港の街と新しいタワーが隣り合う。",
+      "sources": [
+        {
+          "label": "高さ・階数の一覧資料（二次資料）",
+          "url": "https://ja.wikipedia.org/wiki/日本の超高層建築物・構築物の一覧"
+        }
+      ],
+      "note": "",
+      "order": 92,
+      "rank": 92,
+      "heightBasis": "建築物の高さ（一覧資料基準）",
+      "modelNote": "外形を簡略化した説明用3D。高さ以外の幅・奥行・窓・色は模式表現。"
+    },
+    {
+      "id": "jp-093",
+      "name": "大手町タワー",
+      "height": 199.7,
+      "floors": 38,
+      "year": 2014,
+      "location": "東京都千代田区",
+      "prefecture": "東京都",
+      "kind": "ビル",
+      "model": "glass",
+      "description": "「大手町の森」に接する複合ビル。高層オフィスとホテルを重ねる。",
+      "sources": [
+        {
+          "label": "高さ・階数の一覧資料（二次資料）",
+          "url": "https://ja.wikipedia.org/wiki/日本の超高層建築物・構築物の一覧"
+        }
+      ],
+      "note": "",
+      "order": 93,
+      "rank": 93,
+      "heightBasis": "建築物の高さ（一覧資料基準）",
+      "modelNote": "外形を簡略化した説明用3D。高さ以外の幅・奥行・窓・色は模式表現。"
+    },
+    {
+      "id": "jp-094",
+      "name": "グランドシティタワー月島",
+      "height": 199.45,
+      "floors": 58,
+      "year": 2026,
+      "location": "東京都中央区",
+      "prefecture": "東京都",
+      "kind": "ビル",
+      "model": "residence",
+      "description": "月島の58階建て住宅。2026年完成の新しい超高層住宅として掲載。",
+      "sources": [
+        {
+          "label": "三井の賃貸｜完成済み物件",
+          "url": "https://www.mitsui-chintai.co.jp/rf/tatemono/10964"
+        },
+        {
+          "label": "高さ・階数の一覧資料（二次資料）",
+          "url": "https://ja.wikipedia.org/wiki/日本の超高層建築物・構築物の一覧"
+        }
+      ],
+      "note": "",
+      "order": 94,
+      "rank": 94,
+      "heightBasis": "建築物の高さ（一覧資料基準）",
+      "modelNote": "外形を簡略化した説明用3D。高さ以外の幅・奥行・窓・色は模式表現。"
+    },
+    {
+      "id": "jp-095",
+      "name": "中之島フェスティバルタワー・ウエスト",
+      "height": 199.27,
+      "floors": 41,
+      "year": 2017,
+      "location": "大阪府大阪市北区",
+      "prefecture": "大阪府",
+      "kind": "ビル",
+      "model": "festival",
+      "description": "中之島のツインタワーの西棟。東棟と向かい合う大きな直線的なボリューム。",
+      "sources": [
+        {
+          "label": "高さ・階数の一覧資料（二次資料）",
+          "url": "https://ja.wikipedia.org/wiki/日本の超高層建築物・構築物の一覧"
+        }
+      ],
+      "note": "",
+      "order": 95,
+      "rank": 95,
+      "heightBasis": "建築物の高さ（一覧資料基準）",
+      "modelNote": "外形を簡略化した説明用3D。高さ以外の幅・奥行・窓・色は模式表現。"
+    },
+    {
+      "id": "jp-096",
+      "name": "中之島フェスティバルタワー",
+      "height": 198.96,
+      "floors": 39,
+      "year": 2012,
+      "location": "大阪府大阪市北区",
+      "prefecture": "大阪府",
+      "kind": "ビル",
+      "model": "festival",
+      "description": "フェスティバルホールを含む東棟。赤系の外観と上部の高層棟が特徴。",
+      "sources": [
+        {
+          "label": "高さ・階数の一覧資料（二次資料）",
+          "url": "https://ja.wikipedia.org/wiki/日本の超高層建築物・構築物の一覧"
+        }
+      ],
+      "note": "",
+      "order": 96,
+      "rank": 96,
+      "heightBasis": "建築物の高さ（一覧資料基準）",
+      "modelNote": "外形を簡略化した説明用3D。高さ以外の幅・奥行・窓・色は模式表現。"
+    },
+    {
+      "id": "jp-097",
+      "name": "新丸の内ビルディング",
+      "height": 197.6,
+      "floors": 38,
+      "year": 2007,
+      "location": "東京都千代田区",
+      "prefecture": "東京都",
+      "kind": "ビル",
+      "model": "glass",
+      "description": "東京駅丸の内口に面する複合ビル。低層部の街並みと高層部を組み合わせる。",
+      "sources": [
+        {
+          "label": "高さ・階数の一覧資料（二次資料）",
+          "url": "https://ja.wikipedia.org/wiki/日本の超高層建築物・構築物の一覧"
+        }
+      ],
+      "note": "",
+      "order": 97,
+      "rank": 97,
+      "heightBasis": "建築物の高さ（一覧資料基準）",
+      "modelNote": "外形を簡略化した説明用3D。高さ以外の幅・奥行・窓・色は模式表現。"
+    },
+    {
+      "id": "jp-098",
+      "name": "シティタワー広島",
+      "height": 197.5,
+      "floors": 52,
+      "year": 2016,
+      "location": "広島県広島市南区",
+      "prefecture": "広島県",
+      "kind": "ビル",
+      "model": "residence",
+      "description": "広島駅南口のタワーマンション。駅前の再開発街区に立つ高層住宅。",
+      "sources": [
+        {
+          "label": "高さ・階数の一覧資料（二次資料）",
+          "url": "https://ja.wikipedia.org/wiki/日本の超高層建築物・構築物の一覧"
+        }
+      ],
+      "note": "",
+      "order": 98,
+      "rank": 98,
+      "heightBasis": "建築物の高さ（一覧資料基準）",
+      "modelNote": "外形を簡略化した説明用3D。高さ以外の幅・奥行・窓・色は模式表現。"
+    },
+    {
+      "id": "jp-099",
+      "name": "世界貿易センタービルディング南館",
+      "height": 197.321,
+      "floors": 39,
+      "year": 2021,
+      "location": "東京都港区",
+      "prefecture": "東京都",
+      "kind": "ビル",
+      "model": "glass",
+      "description": "浜松町駅に隣接する南館。解体された旧本館とは別のビル。",
+      "sources": [
+        {
+          "label": "高さ・階数の一覧資料（二次資料）",
+          "url": "https://ja.wikipedia.org/wiki/日本の超高層建築物・構築物の一覧"
+        }
+      ],
+      "note": "",
+      "order": 99,
+      "rank": 99,
+      "heightBasis": "建築物の高さ（一覧資料基準）",
+      "modelNote": "外形を簡略化した説明用3D。高さ以外の幅・奥行・窓・色は模式表現。"
+    },
+    {
+      "id": "jp-100",
+      "name": "JPタワー名古屋",
+      "height": 195.74,
+      "floors": 40,
+      "year": 2015,
+      "location": "愛知県名古屋市中村区",
+      "prefecture": "愛知県",
+      "kind": "ビル",
+      "model": "glass",
+      "description": "名古屋駅前の複合ビル。低層部にKITTE名古屋を持つ。",
+      "sources": [
+        {
+          "label": "高さ・階数の一覧資料（二次資料）",
+          "url": "https://ja.wikipedia.org/wiki/日本の超高層建築物・構築物の一覧"
+        }
+      ],
+      "note": "",
+      "order": 100,
+      "rank": 100,
+      "heightBasis": "建築物の高さ（一覧資料基準）",
+      "modelNote": "外形を簡略化した説明用3D。高さ以外の幅・奥行・窓・色は模式表現。"
+    }
+  ]
+}
